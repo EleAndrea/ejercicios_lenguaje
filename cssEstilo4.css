@@ -1,0 +1,47 @@
+div#cabecera{ 
+
+   text-align:center; 
+
+    width: 100%; 
+
+    background-color: darkseagreen; 
+
+} 
+
+div#contenido{ 
+
+    float:left; 
+
+    width: 60%; 
+
+    background-color: antiquewhite; 
+
+} 
+
+div#enlaces{ 
+
+    float:left; 
+
+    width: :20%; 
+
+    background-color: antiquewhite; 
+
+} 
+
+div#publicidad{ 
+
+    float:; 
+
+    width: 20%; 
+
+    background-color: antiquewhite; 
+
+} 
+
+  
+
+body{ 
+
+    background-color: darkseagreen; 
+
+} 

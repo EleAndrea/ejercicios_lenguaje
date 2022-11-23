@@ -1,0 +1,43 @@
+div#cabecera{ 
+
+    text-align: center; 
+
+    width:100%; 
+
+    background-color:lightgoldenrodyellow; 
+
+} 
+
+div#texto { 
+
+    float: left; 
+
+    width: 60%; 
+
+    background-color: burlywood;  
+
+} 
+
+div#enlaces{ 
+
+    float:right; 
+
+    width; 20% 
+
+    background-color: burlywood; 
+
+} 
+
+div{ 
+
+    border-style:double; 
+
+} 
+
+body{ 
+
+    background-color:gainsboro; 
+
+} 
+
+ 

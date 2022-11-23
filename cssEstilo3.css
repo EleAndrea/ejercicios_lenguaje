@@ -1,0 +1,41 @@
+div#cabecera{ 
+
+    text-align: center; 
+
+    width: 100%; 
+
+    background-color: darkseagreen; 
+
+} 
+
+div#textoazul{ 
+
+    float: right; 
+
+    width:30%; 
+
+    background-color: darkcyan; 
+
+} 
+
+div#texto{ 
+
+    float:left; 
+
+    width: 70%; 
+
+    background-color: darksalmon; 
+
+} 
+
+div#copyright{ 
+
+    float: left; 
+
+    width:100%; 
+
+    background-color: aquamarine; 
+
+} 
+
+ 
